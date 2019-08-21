@@ -1,0 +1,45 @@
+/*styling body background*/
+body{
+  background:radial-gradient(circle,#ecec84,#ffb69b,#a299ca,#7ccaae);
+}
+
+/*styling button*/
+#button{
+  width:120px;
+  height:60px;
+  margin:5% 35%;
+  border-radius:20px;
+}
+
+/*styling the bigger box*/
+     #container {
+  width: 450px;
+  height: 450px;
+  position: relative;
+  background: #e69a8dff;
+  margin:1% 35%;
+  border-radius:10px;
+  border:5px solid white;
+}
+
+/*styling the image portion*/
+#animate {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+}
+
+/*styling the img tag */
+img{
+  border-radius:10px;
+  border:2px solid black;
+}
+
+/*styling the quotation*/
+#quote{
+  position:absolute;
+  margin:150px;
+  font-size:18px;
+  font-family:Comic Sans MS;
+  color:#5f4b8bff;
+}
